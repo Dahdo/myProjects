@@ -1,0 +1,67 @@
+body{
+	background: #999;
+	color: purple;
+	padding: 0px 20px 20px 20px;
+}
+header{
+
+	background: orange;
+}
+
+header nav h1{
+	display: inline-block;
+	margin: 0 40px;
+}
+
+header ul{
+	list-style-type: none;
+	color: green;
+	display: inline-block;
+
+}
+
+nav ul li{
+display: inline-block;
+background: indigo;
+padding: 15px;
+margin: 7px;
+width:120px;
+}
+
+nav ul li a{
+	color: white;
+}
+
+
+
+.col{
+	background: #666;
+	border-radius: 5px;
+	float: left;
+	margin: 1%;
+	width: 29.5%;
+	padding: 10px;
+	color: black;
+}
+content{
+	padding: 20px;
+}
+content p{
+	padding: 15px;
+	margin: 20px;
+	font-size: 20px;
+}
+
+content ul{
+	padding: 15px;
+	font-size: 20px;
+}
+
+
+footer{
+
+clear: both;
+padding:5px;
+color: azure;
+background: #888;
+}
